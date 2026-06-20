@@ -1,0 +1,2 @@
+pinecone==9.1.0
+dotenv==0.9.9
